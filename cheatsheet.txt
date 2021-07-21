@@ -1,0 +1,1 @@
+git clone (url of githubrepository)---->> to download the repository in a folder
